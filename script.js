@@ -1,5 +1,4 @@
 import { decodeRailFenceCipher, encodeRailFenceCipher } from './lib/Rail Fence Cipher.js';
-import { decryptRailFence, encryptRailFence } from './lib/Rail.js';
 
 const operations = {
     encode: encodeRailFenceCipher,
